@@ -52,3 +52,7 @@
 ## SIGNATE
 [![SIGNATE](https://img.shields.io/badge/SIGNATE-FF6600?style=for-the-badge&logo=data:image/png;base64,...)](https://signate.jp/users/295952)
 
+## Intern
+- **2024/08 ~ 2024/09: 日本電気株式会社 (NEC Corporation)**
+- **2025/01 ~ 2025/02: 株式会社 日立製作所 (Hitachi, Ltd.)**
+- **2025/04 ~ 2025/05: 富士通株式会社 (Fujitsu Limited)**
