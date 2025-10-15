@@ -32,6 +32,12 @@
 
 ---
 
+## Intern
+- **2024/08 ~ 2024/09: 日本電気株式会社 (NEC Corporation)**
+- **2025/01 ~ 2025/02: 株式会社 日立製作所 (Hitachi, Ltd.)**
+- **2025/04 ~ 2025/05: 富士通株式会社 (Fujitsu Limited)**
+
+---
 
 ## 📊 Contributions
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
@@ -88,8 +94,3 @@
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-## Intern
-- **2024/08 ~ 2024/09: 日本電気株式会社 (NEC Corporation)**
-- **2025/01 ~ 2025/02: 株式会社 日立製作所 (Hitachi, Ltd.)**
-- **2025/04 ~ 2025/05: 富士通株式会社 (Fujitsu Limited)**
