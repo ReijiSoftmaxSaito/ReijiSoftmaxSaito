@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Reiji Softmax Saito
 
 **Meijo University / Electrical and Electronic Engineering, 2nd-year Master’s student**  
-**AI, Machine Learning & Deep Learning**
-**Computer Vision & Pattern Recognition**
+**AI, Machine Learning & Deep Learning, Computer Vision & Pattern Recognition**
 
 ---
 
