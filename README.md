@@ -60,16 +60,15 @@
     </td>
     <!-- WebScraper -->
     <td align="center" width="50%">
-      <a href="https://github.com/fujitsu2025-webscraper/webscraper">
-        <img src="https://github.com/user-attachments/assets/9f6c0c3e-76d3-45dc-bc2e-79983abf6cda" width="200" alt="WebScraper Icon" />
+      <!-- <a href="https://github.com/fujitsu2025-webscraper/webscraper">
+        <img src="https://github.com/user-attachments/assets/9f6c0c3e-76d3-45dc-bc2e-79983abf6cda" width="200" alt="WebScraper Icon" /> -->
       </a>
       <br>
       <b>WebScraper</b>
       <p align="left">
         ニュースサイトなどから自動で情報を収集し、
         整形・分類して保存できるスクレイピングツール。
-        BeautifulSoup と Selenium を活用し、
-        高速で安定したデータ収集を実現。
+        LLMを用いた文章要約機能など様々な機能を搭載。
       </p>
       <a href="https://github.com/fujitsu2025-webscraper/webscraper">GitHub</a>
     </td>
@@ -81,6 +80,7 @@
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
 
 ### Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
