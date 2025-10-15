@@ -27,6 +27,8 @@
 
 # Papers
   - [Domain Generalization Using Category Information Independent of Domain Differences (ICPRAM2025)](https://www.scitepress.org/Papers/2025/133003/133003.pdf)
+  - [Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator (VISAPP2025)](https://www.scitepress.org/Papers/2025/132227/132227.pdf)
+  - [Domain Generalization through Attenuation of Domain-Specific Information (CVPRW2025)](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Saito_Domain_Generalization_through_Attenuation_of_Domain-Specific_Information_CVPRW_2025_paper.pdf)
 
 # Commits
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
