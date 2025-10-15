@@ -32,14 +32,53 @@
 
 ---
 
+
 ## 📊 Contributions
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
 <!-- ![Achievements](output/metrics.plugin.achievements.compact.svg) -->
 
 ---
 
-## 💻 Skills
+## My Apps
 
+<table>
+  <tr>
+    <!-- kikonAshI -->
+    <td align="center" width="50%">
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">
+        <img src="https://github.com/user-attachments/assets/e7a7dbf0-f338-454a-9802-2ea1ab64da41" width="200" alt="kikonAshI App Icon" />
+      </a>
+      <br>
+      <b>kikonAshI (iOS)</b>
+      <p align="left">
+        独自開発したファッションAIを搭載するアプリ。<br>
+        毎日着る服の組み合わせをAIが提案し、ユーザーがコーディネートを考える手間を削減。<br>
+        季節やシーンに応じたスタイルも考慮し、育成機能も搭載。<br>
+      </p>
+      <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> |
+      <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
+    </td>
+
+    <!-- WebScraper -->
+    <td align="center" width="50%">
+      <a href="https://github.com/fujitsu2025-webscraper/webscraper">
+        <img src="https://github.com/user-attachments/assets/9f6c0c3e-76d3-45dc-bc2e-79983abf6cda" width="200" alt="WebScraper Icon" />
+      </a>
+      <br>
+      <b>WebScraper</b>
+      <p align="left">
+        ニュースサイトなどから自動で情報を収集し、<br>
+        整形・分類して保存できるスクレイピングツール。<br>
+        BeautifulSoup と Selenium を活用し、<br>
+        高速で安定したデータ収集を実現。<br>
+      </p>
+      <a href="https://github.com/fujitsu2025-webscraper/webscraper">GitHub</a>
+    </td>
+  </tr>
+</table>
+
+
+## 💻 Skills
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
