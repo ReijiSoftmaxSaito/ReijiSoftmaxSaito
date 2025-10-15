@@ -26,7 +26,7 @@
 
 ---
 
-## Competitions
+## 🔥 Competitions
 [![SIGNATE](https://img.shields.io/badge/SIGNATE-FF6600?style=for-the-badge&logo=data:image/png;base64,...)](https://signate.jp/users/295952)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cosinesai)
 
@@ -45,7 +45,7 @@
 
 ---
 
-## My Apps
+## 📱 My Apps
 
 <table>
   <tr>
