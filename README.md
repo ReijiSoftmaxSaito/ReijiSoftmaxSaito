@@ -28,5 +28,6 @@
 <!-- ![Metrics](output/metrics.base.svg) -->
 ![Details](output/details.svg)
 ![Achievements](output/metrics.plugin.achievements.compact.svg)
-![Half-year Calendar](output/metrics.plugin.isocalendar.svg)
-![Full-year Calendar](output/metrics.plugin.isocalendar.fullyear.svg)
+![Contribution Calendar](output/metrics.plugin.isocalendar.svg)
+![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
+<!-- ![Full-year Calendar](output/metrics.plugin.isocalendar.fullyear.svg) -->
