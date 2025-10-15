@@ -33,8 +33,9 @@
 # Commits
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
 
-
-
+# Profile as a Reseacher
+[ResearchGate](https://www.researchgate.net/profile/Reiji-Saito)
+[Google Scholar](https://scholar.google.com/citations?hl=ja&user=QaGiu7UAAAAJ&view_op=list_works&authuser=1)
 
 <!-- # Details
 ![Details](output/details.svg) -->
