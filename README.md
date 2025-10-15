@@ -41,7 +41,7 @@
 
 ## 📊 Contributions
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
-![Achievements](output/metrics.plugin.achievements.compact.svg)
+<!-- ![Achievements](output/metrics.plugin.achievements.compact.svg) -->
 
 ---
 
