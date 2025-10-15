@@ -25,11 +25,17 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+# Papers
+  - [Domain Generalization Using Category Information Independent of Domain Differences (ICPRAM2025)](https://www.scitepress.org/Papers/2025/133003/133003.pdf)
+
 # Commits
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
 
-# Details
-![Details](output/details.svg)
+
+
+
+<!-- # Details
+![Details](output/details.svg) -->
 <!-- ![Metrics](output/metrics.base.svg) -->
 ![Achievements](output/metrics.plugin.achievements.compact.svg) -->
 <!-- ![Contribution Calendar](output/metrics.plugin.isocalendar.svg) -->
