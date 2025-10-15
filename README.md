@@ -58,7 +58,6 @@
       <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> |
       <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
     </td>
-
     <!-- WebScraper -->
     <td align="center" width="50%">
       <a href="https://github.com/fujitsu2025-webscraper/webscraper">
