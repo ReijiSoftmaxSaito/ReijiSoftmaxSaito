@@ -57,9 +57,8 @@
       <br>
       <b>kikonAshI (iOS)</b>
       <p align="left">
-        独自開発したファッションAIを搭載するアプリ。
-        毎日着る服の組み合わせをAIが提案し、ユーザーがコーディネートを考える手間を削減。
-        季節やシーンに応じたスタイルも考慮し、育成機能も搭載。
+        An original fashion AI–powered app that suggests daily outfit combinations, helping users save time deciding what to wear.
+        It considers seasonal trends and various occasions, and even features a character growth system.
       </p>
       <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> |
       <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
@@ -72,9 +71,8 @@
       <br>
       <b>WebScraper</b>
       <p align="left">
-        ニュースサイトなどから自動で情報を収集し、
-        整形・分類して保存できるスクレイピングツール。
-        LLMを用いた文章要約機能など様々な機能を搭載。
+        A web scraping tool that automatically collects information from news sites, organizes and categorizes it for storage.
+        Equipped with various features, including text summarization powered by LLMs.
       </p>
       <a href="https://github.com/fujitsu2025-webscraper/webscraper">GitHub</a>
     </td>
