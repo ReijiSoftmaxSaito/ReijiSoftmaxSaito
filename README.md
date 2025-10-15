@@ -25,3 +25,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
+![Metrics](output/metrics.base.svg)
+![Details](output/details.svg)
+![Achievements](output/metrics.plugin.achievements.compact.svg)

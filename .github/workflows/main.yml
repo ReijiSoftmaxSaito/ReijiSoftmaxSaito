@@ -48,3 +48,11 @@ jobs:
           scripter, packager, explorer, infographile, manager
         plugin_achievements_display: compact
         plugin_achievements_threshold: X
+
+    - name: Commit metrics
+      run: |
+        git config --global user.name "github-actions[bot]"
+        git config --global user.email "github-actions[bot]@users.noreply.github.com"
+        git add output/*.svg
+        git commit -m "Update metrics" || echo "No changes to commit"
+        git push
