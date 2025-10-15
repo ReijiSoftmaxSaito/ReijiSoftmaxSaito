@@ -34,8 +34,9 @@
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
 
 # Profile as a Reseacher
-[ResearchGate](https://www.researchgate.net/profile/Reiji-Saito)
-[Google Scholar](https://scholar.google.com/citations?hl=ja&user=QaGiu7UAAAAJ&view_op=list_works&authuser=1)
+[![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Reiji-Saito)
+[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?hl=ja&user=QaGiu7UAAAAJ&view_op=list_works&authuser=1)
+
 
 <!-- # Details
 ![Details](output/details.svg) -->
