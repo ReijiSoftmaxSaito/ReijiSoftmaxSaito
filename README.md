@@ -32,6 +32,12 @@
 
 ---
 
+## 📊 Contributions
+![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
+<!-- ![Achievements](output/metrics.plugin.achievements.compact.svg) -->
+
+---
+
 ## 💻 Skills
 
 ### Languages
@@ -42,12 +48,6 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
----
-
-## 📊 Contributions
-![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
-<!-- ![Achievements](output/metrics.plugin.achievements.compact.svg) -->
 
 ---
 
