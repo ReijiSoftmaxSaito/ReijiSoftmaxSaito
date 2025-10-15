@@ -51,9 +51,9 @@
       <br>
       <b>kikonAshI (iOS)</b>
       <p align="left">
-        独自開発したファッションAIを搭載するアプリ。<br>
-        毎日着る服の組み合わせをAIが提案し、ユーザーがコーディネートを考える手間を削減。<br>
-        季節やシーンに応じたスタイルも考慮し、育成機能も搭載。<br>
+        独自開発したファッションAIを搭載するアプリ。
+        毎日着る服の組み合わせをAIが提案し、ユーザーがコーディネートを考える手間を削減。
+        季節やシーンに応じたスタイルも考慮し、育成機能も搭載。
       </p>
       <a href="https://apps.apple.com/jp/app/kikonashi/id6502258139">App Store</a> |
       <a href="https://github.com/sakai1250/hacku2023">GitHub</a>
@@ -66,10 +66,10 @@
       <br>
       <b>WebScraper</b>
       <p align="left">
-        ニュースサイトなどから自動で情報を収集し、<br>
-        整形・分類して保存できるスクレイピングツール。<br>
-        BeautifulSoup と Selenium を活用し、<br>
-        高速で安定したデータ収集を実現。<br>
+        ニュースサイトなどから自動で情報を収集し、
+        整形・分類して保存できるスクレイピングツール。
+        BeautifulSoup と Selenium を活用し、
+        高速で安定したデータ収集を実現。
       </p>
       <a href="https://github.com/fujitsu2025-webscraper/webscraper">GitHub</a>
     </td>
