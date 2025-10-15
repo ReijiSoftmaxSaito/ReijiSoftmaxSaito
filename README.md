@@ -25,9 +25,12 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-<!-- ![Metrics](output/metrics.base.svg) -->
-![Details](output/details.svg)
-![Achievements](output/metrics.plugin.achievements.compact.svg)
-![Contribution Calendar](output/metrics.plugin.isocalendar.svg)
+# Commits
 ![Snake Calendar](https://raw.githubusercontent.com/ReijiSoftmaxSaito/ReijiSoftmaxSaito/output/github-contribution-grid-snake.svg)
+
+# Details
+![Details](output/details.svg)
+<!-- ![Metrics](output/metrics.base.svg) -->
+![Achievements](output/metrics.plugin.achievements.compact.svg) -->
+<!-- ![Contribution Calendar](output/metrics.plugin.isocalendar.svg) -->
 <!-- ![Full-year Calendar](output/metrics.plugin.isocalendar.fullyear.svg) -->
