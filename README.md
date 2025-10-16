@@ -102,4 +102,4 @@
 研究実験棟3　R3-224室  
 名城大学　理工学研究科　電気電子工学専攻　2年  
 齋藤　令次  
-[200442065@ccalumni.meijo-u.ac.jp](mailto:200442065@ccalumni.meijo-u.ac.jp)
+E-mail: [200442065@ccalumni.meijo-u.ac.jp](mailto:200442065@ccalumni.meijo-u.ac.jp)
