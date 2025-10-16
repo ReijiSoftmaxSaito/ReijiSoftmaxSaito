@@ -96,7 +96,7 @@
 ## Activities
 - **運営委員,  2023年度 名古屋大学拠点AI-MAILs x 東北大学拠点ClinicalAI 第3回合同シンポジウム**
 
-# Contact
+## Contact
 〒468-8502  
 名古屋市天白区塩釜口1-501  
 研究実験棟3　R3-224室  
