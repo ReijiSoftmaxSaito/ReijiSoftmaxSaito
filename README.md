@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Reiji Softmax Saito
+# I'm Reiji Softmax Saito
 
-**Meijo University / Electrical and Electronic Engineering, 2nd-year Master’s student**  
+**Graduated from Meijo University**  
 **AI, Machine Learning & Deep Learning, Computer Vision & Pattern Recognition**
 
 ---
@@ -17,6 +17,8 @@
 - [**Domain Generalization Using Category Information Independent of Domain Differences** (ICPRAM2025)](https://www.scitepress.org/Papers/2025/133003/133003.pdf)
 - [**Accuracy Improvement of Semi-Supervised Segmentation Using Supervised ClassMix and Sup-Unsup Feature Discriminator** (VISAPP2025)](https://www.scitepress.org/Papers/2025/132227/132227.pdf)
 - [**Domain Generalization through Attenuation of Domain-Specific Information** (CVPRW2025)](https://openaccess.thecvf.com/content/CVPR2025W/DG-EBF/papers/Saito_Domain_Generalization_through_Attenuation_of_Domain-Specific_Information_CVPRW_2025_paper.pdf)
+- [**Sin Loss for Class Imbalance and Hard Samples** (VISAPP2026)](https://www.scitepress.org/Papers/2026/144627/144627.pdf)
+- [**Novel Anomaly Detection Scenarios and Evaluation Metrics to Address the Ambiguity in the Definition of Normal Samples** (CVPRW2026)](https://arxiv.org/abs/2604.07097)
 
 ---
 
@@ -29,13 +31,6 @@
 # 🔥 Competitions
 [![SIGNATE](https://img.shields.io/badge/SIGNATE-FF6600?style=for-the-badge&logo=data:image/png;base64,...)](https://signate.jp/users/295952)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/cosinesai)
-
----
-
-# Intern
-- **2024/08 ~ 2024/09: 日本電気株式会社 (NEC Corporation) ビジュアルインテリジェンス研究所**
-- **2025/01 ~ 2025/02: 株式会社 日立製作所 (Hitachi, Ltd.) 研究開発グループAI制御研究部**
-- **2025/04 ~ 2025/05: 富士通株式会社 (Fujitsu Limited)**
 
 ---
 
@@ -97,9 +92,5 @@
 - **運営委員,  2023年度 名古屋大学拠点AI-MAILs x 東北大学拠点ClinicalAI 第3回合同シンポジウム**
 
 # Contact
-〒468-8502  
-名古屋市天白区塩釜口1-501  
-研究実験棟3　R3-224室  
-名城大学　理工学研究科　電気電子工学専攻　2年  
 齋藤　令次  
 E-mail: [200442065@ccalumni.meijo-u.ac.jp](mailto:200442065@ccalumni.meijo-u.ac.jp)
